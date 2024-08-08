@@ -1,0 +1,41 @@
+{
+  "name": "kopanomabuya",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "license": "AGPL-version-3.0",
+  "private": false,
+  "engines": {
+    "node": ">= 14.0.0",
+    "npm": ">= 6.0.0"
+  },
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": "",
+  "keywords": [],
+  "author": {
+    "name": "",
+    "email": "kopanomabuya@gmail.com",
+    "url": "https://bootcamp.projectcodex.co/cars.json"
+  },
+  "contributors": [],
+  "scripts": {
+    "dev": "",
+    "test": "mocha nissanfromCK.test.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.3",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "assert": "^2.1.0",
+    "mocha": "^10.7.0"
+  }
+ 
+}

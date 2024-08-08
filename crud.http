@@ -1,0 +1,3 @@
+Get https://bootcamp.projectcodex.co/cars.json
+
+GET http://localhost:3007/api/cars
